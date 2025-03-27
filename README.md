@@ -1,6 +1,6 @@
 # HR-Dashboard
-Deployed on Tableau Public: 
-[https://public.tableau.com/app/profile/suraj.gupta7889/viz/HR-Dashboard_17337593332330/HRSummary?publish=yes]
+Deployed on Tableau Public: [HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/suraj.gupta7889/viz/HR-Dashboard_17337593332330/HRSummary?publish=yes)
+
 
 This Tableau dashboard visualizes key HR metrics, including demographics, turnover, and hiring trends, with interactive filters for deeper analysis. It demonstrates the ability to transform HR data into actionable insights for workforce management.
 
